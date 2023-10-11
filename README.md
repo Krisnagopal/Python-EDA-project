@@ -1,50 +1,46 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Automated EDA using Python </h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a highly-efficient Python script (developed by me) that can take any tabular-form dataset as input and then automatically create all possible basic chart-types for all the measures or dimensions appropriately, to give clear idea about the statistical distribution of data frequecies, correlation between measures, trends or patterns etc. This script can detect the datatypes of all columns itself and adapt itself accordingly to produce appropriate type of chart for any particular measure.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python 3 </b> 
 
-<h2>Environments Used </h2>
+<h2>Libraries Used</h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Pandas for Dataframe operations and Numeric calculations </b>
+- <b>NumPy for Numeric calculations </b>
+- <b>Matplotlib & Seaborn for visualization (plotting charts) </b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Importing all necessary Libraries, Reading the dataset and Getting primary insights about the dataset: <br/>
+<img src="https://i.imgur.com/ZvMWRPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Handling the Missing Values of each column:  <br/>
+<img src="https://i.imgur.com/shpFu1T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Handling the unwanted Values of each column: <br/>
+<img src="https://i.imgur.com/64xndHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Data visualization: Histogram and Boxplot  <br/>
+<img src="https://i.imgur.com/ePo3ADk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Distribution Plot,  Correlation Plot,  Line Plot, Horizontal Bar Graph and Violin Plot:  <br/>
+<img src="https://i.imgur.com/1eHGGgr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EDA with all basic charts complete!  <br/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
