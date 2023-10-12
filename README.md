@@ -19,23 +19,23 @@ This project consists of a highly-efficient Python script (developed by me) that
 
 <p align="center">
 Importing all necessary Libraries, Reading the dataset and Getting primary insights about the dataset: <br/>
-<img src="https://i.imgur.com/ZvMWRPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZvMWRPe.png" height="80%" width="80%" alt="Automated EDA using Python "/>
 <br />
 <br />
 Handling the Missing Values of each column:  <br/>
-<img src="https://i.imgur.com/shpFu1T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/shpFu1T.png" height="80%" width="80%" alt="Automated EDA using Python "/>
 <br />
 <br />
 Handling the unwanted Values of each column: <br/>
-<img src="https://i.imgur.com/64xndHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/64xndHx.png" height="80%" width="80%" alt="Automated EDA using Python "/>
 <br />
 <br />
 Data visualization: Histogram and Boxplot  <br/>
-<img src="https://i.imgur.com/ePo3ADk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ePo3ADk.png" height="80%" width="80%" alt="Automated EDA using Python "/>
 <br />
 <br />
 Distribution Plot,  Correlation Plot,  Line Plot, Horizontal Bar Graph and Violin Plot:  <br/>
-<img src="https://i.imgur.com/1eHGGgr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1eHGGgr.png" height="80%" width="80%" alt="Automated EDA using Python "/>
 <br />
 <br />
 EDA with all basic charts complete!  <br/>
