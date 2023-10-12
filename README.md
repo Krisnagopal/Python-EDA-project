@@ -1,7 +1,7 @@
 <h1>Automated EDA using Python </h1>
 
 <h2>Description</h2>
-Project consists of a highly-efficient Python script (developed by me) that can take any tabular-form dataset as input and then automatically create all possible basic chart-types for all the measures or dimensions appropriately, to give clear idea about the statistical distribution of data frequecies, correlation between measures, trends or patterns etc. This script can detect the datatypes of all columns itself and adapt itself accordingly to produce appropriate type of chart for any particular measure.
+This project consists of a highly-efficient Python script (developed by me) that can take any tabular-form dataset as input and then automatically create all possible basic chart-types for all the measures or dimensions appropriately, to give clear idea about the statistical distribution of data frequecies, correlation between measures, trends or patterns etc. This script can detect the datatypes of all columns itself and adapt itself accordingly to produce appropriate type of chart for any particular measure.
 <br />
 
 
