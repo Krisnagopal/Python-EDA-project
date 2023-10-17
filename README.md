@@ -17,7 +17,7 @@ This project consists of a highly-efficient Python script (obviously, developed 
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Importing all necessary Libraries, Reading the dataset and Getting primary insights about the dataset: <br/>
 <img src="https://i.imgur.com/ZvMWRPe.png" height="80%" width="80%" alt="Automated EDA using Python "/>
 <br />
